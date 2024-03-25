@@ -1,6 +1,10 @@
 module github.com/Yandex-Practicum/42-docker-final
 
+<<<<<<< HEAD
 go 1.21
+=======
+go 1.17
+>>>>>>> c22a3398a90ecd0b942de6a12ee3434174d01143
 
 require (
 	github.com/stretchr/testify v1.8.4
